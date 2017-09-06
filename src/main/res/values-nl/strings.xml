@@ -183,7 +183,6 @@ Kies er eentje van een provider.</string>
     <string name="sync_conflicts_in_favourites_ticker">Conflicten gevonden</string>
     <string name="sync_fail_in_favourites_ticker">Gesynchroniseerd te houden bestanden mislukt</string>
     <string name="sync_foreign_files_forgotten_ticker">Een paar lokale bestanden werden vergeten</string>
-    <string name="sync_foreign_files_forgotten_content">%1$d bestanden uit de %2$s-map konden niet worden gekopieerd naar</string>
     <string name="sync_current_folder_was_removed">Map %1$s bestaat niet meer</string>
     <string name="upload_query_move_foreign_files">Er is niet genoeg ruimte om de geselecteerde bestanden te kopieren naar %1$s. Wilt u ze in plaats daarvan verplaatsen?</string>
     <string name="pass_code_enter_pass_code">Voer je toegangscode in</string>

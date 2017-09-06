@@ -182,7 +182,6 @@
     <string name="sync_conflicts_in_favourites_ticker">Conflicts found</string>
     <string name="sync_fail_in_favourites_ticker">Kept-in-sync files failed</string>
     <string name="sync_foreign_files_forgotten_ticker">Some local files were forgotten</string>
-    <string name="sync_foreign_files_forgotten_content">%1$d files out of the %2$s folder could not be copied into</string>
     <string name="sync_current_folder_was_removed">The folder %1$s does not exist anymore</string>
     <string name="upload_query_move_foreign_files">Insufficient space prevents copying the selected files into the %1$s folder. Would you like to move them there instead?</string>
     <string name="pass_code_enter_pass_code">Please enter your passcode</string>
